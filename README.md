@@ -1,7 +1,7 @@
 # gocomicscraper
 gocomics scraper!
 
-Instructions
+# Instructions
 
 
 
@@ -16,6 +16,58 @@ Instructions
 
 
 -run exe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -enter comic id (from the url!!)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -choose start and end date
+
+
+
+
+
+
+
+
+
+
+
 -click start scraping!
